@@ -135,7 +135,7 @@ cd Clinical-copilot
 ### 2. Automated Setup (Windows)
 ```bash
 # Run the automated setup script
-setup.bat
+.\setup.bat
 ```
 
 ### 3. Manual Setup (Cross-platform)
@@ -176,7 +176,7 @@ echo "NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key" >> .env.local
 
 #### Option A: Automated Start (Windows)
 ```bash
-start.bat
+.\start.bat
 ```
 
 #### Option B: Manual Start
